@@ -1,4 +1,4 @@
 BST
 ===
 
-A binary search tree
+A binary search tree, with GUI
